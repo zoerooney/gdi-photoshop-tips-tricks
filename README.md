@@ -27,7 +27,7 @@ With a free Creative Cloud membership, you can download a 30-day trial version o
 
 ## Accessing the Course Materials
 
-1. First, download the zip file of all materials in this repository using the **Download Zip** button on the right side of the screen:
+1. First, download the zip file of all materials in this repository using the **Download Zip** button on the right side of the screen:<br>
 ![Download zip button](/images/download-zip.png)
 
 2. Open the zip file on your computer. In the folder, there is an **/example-files/** folder with example PSD files and extra images.
