@@ -25,6 +25,15 @@ This course is open to all coding proficiency levels - we may reference some bas
 
 With a free Creative Cloud membership, you can download a 30-day trial version of Photoshop - https://creative.adobe.com/plans - just make sure you've downloaded (and preferably opened) Photoshop prior to the class so you're certain it's fully installed and working on your computer!
 
+## Accessing the Course Materials
+
+1. First, download the zip file of all materials in this repository using the **Download Zip** button on the right side of the screen:
+![Download zip button](/images/download-zip.png)
+
+2. Open the zip file on your computer. In the folder, there is an **/example-files/** folder with example PSD files and extra images.
+
+3. To view the slideshow, open the **index.html** file in your web browser. The easiest way to navigate the slides is with your keyboard arrow keys.
+
 ## Theme customization
 
 You can change theme colors by changing the theme css to any of the following options:
