@@ -1,4 +1,4 @@
-Photoshop Tips & Trikcs
+Photoshop Tips & Tricks
 ======================
 
 Materials for Photoshop Tips & Tricks, developed by [Zoe Rooney](http://zoerooney.com) for Girl Develop It - Philadelphia.
